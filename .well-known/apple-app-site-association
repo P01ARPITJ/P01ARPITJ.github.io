@@ -1,14 +1,25 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-	    {
-                "appIDs": ["QMJ4F5B698.com.vitalityactivemobile.nl","WDYWGXWGAA.com.vitalitygroup.netherlandsapp"],
-                "paths": [
-		            "*","/*/checkout/*"
-                ]
-        }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "SU2V5Z44TL.com.vitalityactive.tataaia","WDYWGXWGAA.com.vitalityactive.va"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
-    }
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "SU2V5Z44TL.com.vitalityactive.tataaia","WDYWGXWGAA.com.vitalityactive.va"
+    ]
+  }
 }
-
