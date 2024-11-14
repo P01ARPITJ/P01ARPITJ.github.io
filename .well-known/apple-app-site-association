@@ -1,25 +1,17 @@
 {
   "applinks": {
-    "apps": [],
+    "apps": [
+
+    ],
     "details": [
       {
         "appIDs": [
-          "SU2V5Z44TL.com.vitalityactive.tataaia","WDYWGXWGAA.com.vitalityactive.va"
+          "SU2V5Z44TL.com.vitalityactive.tataaia"
         ],
         "paths": [
           "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "SU2V5Z44TL.com.vitalityactive.tataaia","WDYWGXWGAA.com.vitalityactive.va"
     ]
   }
 }
