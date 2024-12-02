@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.vitalityactive.assetadvance",
+    "package_name": "com.vitalityactive.tataaia",
     "sha256_cert_fingerprints":
     ["EE:8E:48:57:20:F4:8B:93:40:B0:A5:BE:03:C8:15:8B:8B:53:C6:3E:03:D4:F7:1A:DA:93:4D:E9:67:69:D7:92"]
   }
