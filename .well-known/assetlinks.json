@@ -4,6 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.vitalityactive.tataaia",
     "sha256_cert_fingerprints":
-    ["EE:8E:48:57:20:F4:8B:93:40:B0:A5:BE:03:C8:15:8B:8B:53:C6:3E:03:D4:F7:1A:DA:93:4D:E9:67:69:D7:92"]
+    ["EE:8E:48:57:20:F4:8B:93:40:B0:A5:BE:03:C8:15:8B:8B:53:C6:3E:03:D4:F7:1A:DA:93:4D:E9:67:69:D7:92",
+    "e4:b1:36:cf:c3:2e:1a:4c:ac:84:19:e6:1a:34:91:18:fd:60:e3:b7:01:4f:a7:25:c3:f6:e4:f1:a0:6f:b7:56",
+    "ee:8e:48:57:20:f4:8b:93:40:b0:a5:be:03:c8:15:8b:8b:53:c6:3e:03:d4:f7:1a:da:93:4d:e9:67:69:d7:92"]
   }
 }]
